@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/flexible-mindbreakers/",
+    "build": "vite build --base=/html-cssf-son-88-HaberSerhii/",
     "preview": "vite preview"
   },
   "devDependencies": {
